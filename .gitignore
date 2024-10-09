@@ -1,0 +1,32 @@
+# PHP Composer files
+/vendor/
+
+# IDE and editor files
+.idea/
+*.iml
+*.log
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# PHPUnit coverage reports
+coverage/
+*.phpunit.result.xml
+
+# Temporary files
+tmp/
+*.tmp
+*.temp
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Backup files
+*~
+*.bak
+*.orig
